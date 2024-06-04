@@ -1,11 +1,4 @@
 import "./App.css";
-function Button(props) {
-  return <button className="Text">{props.buttonText}</button>;
-}
-
-function Button(props) {
-  return <button className="Style">{props.buttonStyle}</button>;
-}
 
 function Header() {
   return (
